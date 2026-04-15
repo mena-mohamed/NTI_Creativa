@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+}
+.test{
+    height: 100px;
+    background-color: fuchsia;
+    padding: 0;
+   
+}
+.d1{
+    height: 100px;
+    background-color: red;
+}
+.d2{
+
+
+
+    height: 100px;
+    background-color: yellow;
+}
+.d3{
+
+
+
+    height: 100px;
+    background-color: green;
+}
+.d4{
+
+
+
+    height: 100px;
+    background-color: aqua;
+}
+.d5{
+
+
+
+    height: 100px;
+    background-color: firebrick;
+}
+
+
+.row{
+    height: 50vh;
+    background-color: rgb(226, 159, 159);
+}
