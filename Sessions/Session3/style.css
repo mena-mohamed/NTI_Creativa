@@ -1,0 +1,106 @@
+/* 
+padding: ;
+margin
+border
+*/
+/* #d1 {
+     background-color: red;
+  height: 300px;
+  width: 300px; */
+/* margin:60px; */
+/* margin-inline:50px; */
+/* margin-block: 50px ; */
+/* margin: 0px 100px; */
+/* margin-top: ;
+    margin-bottom: ;
+    margin-left: ;
+    margin-right: ; */
+/* border: 1px solid aqua; */
+/* border-left: 1px solid blue; */
+/* border: 10px dashed blue; */
+/* }
+p{
+    display: none;
+}
+p:target{
+    display: block;
+}
+div{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+div:hover{
+    border-top-right-radius: 50px 200px;
+    border-radius: 20px 100px 50px 0px;
+    border-radius: 50px  200px;
+    border-radius: ;
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+} */
+h1 {
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+* {
+  font-family: "Lobster Two", sans-serif;
+}
+p {
+  /* line-height: 36px; */
+  /* word-spacing: 20px; */
+  /* letter-spacing: 16px; */
+  /* text-decoration: overline; */
+  /* text-transform: lowercase; */
+  font-size: 30px;
+  /* font-weight: bolder; */
+  /* font-weight: 900; */
+  /* font-style: italic; */
+}
+/* 
+section{
+  background-color: green;
+}
+div{
+  font-size: 60px;
+  text-align: center;
+  line-height: 300px;
+}
+.d1{
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  margin-bottom: 5px;
+  float:left;
+}
+.d2{
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  margin-bottom: 5px;
+  float: left;
+}
+.d3{
+  width: 300px;
+  height: 300px;
+  background-color: darkgoldenrod;
+  margin-bottom: 5px;
+  float: right;
+}
+.clearFix{
+  clear: both;
+} */
+p {
+  float: left;
+}
+ul {
+  float: right;
+}
+li {
+  float: right;
+  margin: 0px 20px;
+}
+.clearfix {
+  clear: both;
+}
