@@ -1,0 +1,136 @@
+ /* .parent{
+    background-color: aqua;
+
+    height: 60vh;
+    width: 80vh;
+    position: relative;
+    position: absolute; 
+    scroll-behavior: smooth;
+} */
+/* 
+body{
+    height: 200vh;
+}
+
+.child1{
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    /* position: sticky; */
+    /* position: absolute; */
+    /* position: fixed; 
+    right: 50px;
+    top: 50px;
+    bottom: 50px;
+}
+
+.child2{
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    /* position: relative; 
+}
+
+.child3{
+    background-color: blueviolet;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    position: relative;
+}
+
+.child4{
+    background-color: yellow;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    position: relative;
+}
+
+
+a{
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: auto;
+    /* transition: 1s; 
+    transition-property: width , height , background-color , border-radius;
+    transition-duration: 3s , 3s , 6s , 3s;
+    transition-delay: 0s , 3s , 6s , 9s , 12s;
+}
+
+div:hover{
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+    border-radius: 50%;
+} */ 
+
+
+
+.head{
+    float: left; 
+    margin-left: 10px;  
+    font-size: 17px; 
+    font-weight: bold;
+}
+
+.menu{
+    float: left;
+    margin: 0px 500px;   
+}
+
+
+li {
+  float: right;
+  margin-left: 15px ;
+  list-style: none;
+  /* font-weight: bold; */
+  font-size: 17px;
+}  
+
+a{
+    text-decoration: none;
+}
+
+button{
+    float: right;
+     margin-right: 10px; 
+}
+
+.clear{
+    clear: both;
+}
+
+body{
+    height: 1000vh;
+}
+
+.pr{
+    background-image: url(../img/background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+    color: azure;
+    text-align: center;
+    padding: 250px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+span{
+    color: blue;
+}
+
