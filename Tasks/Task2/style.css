@@ -1,0 +1,80 @@
+.head{
+    float: left;  
+    font-size: 17px; 
+    font-weight: bold;
+}
+
+.menu{
+    float: left;
+    margin: 0px 0px 0px 500px;
+}
+
+li {
+  float:right;
+  margin:0px 25px ;
+  list-style: none;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.search input{
+    float: right;
+    border-radius: 14px;
+    border-color: transparent;
+    background-color: rgb(242, 240, 240);
+    text-align: center;
+}
+
+
+.clearFix{
+    clear: both;
+}
+
+.log_form{
+    margin: 200px 0px 0px 70px ;
+    float: left;
+}
+
+.img{
+    float:left;
+}
+
+.log_form input{
+    width:80%;
+    padding:10px;
+    margin-bottom:20px;
+    border:none;
+    border-bottom:1px solid black;
+}
+
+.log_form button{
+    padding:10px 20px;
+    background:#a06c4a;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+.clearFix{
+    clear: both;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 50%;
+    width: 100%;
+ }
+footer div{
+    float: left;
+    width: 10%;
+    background-color: black;
+    height: 220px;
+    padding: 20px 75px;
+ }
+
+
+.clearFix{
+    clear:both;
+}
