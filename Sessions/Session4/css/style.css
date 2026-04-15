@@ -1,0 +1,48 @@
+header{
+    background-image: linear-gradient(to left,#0000ff47,#00000046) ,url(../img/background.jpeg);
+    /* background-image: url("background.jpeg"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-attachment:scroll; */
+    background-position: right;
+    background-size: contain;
+    /* background-size: cover; */
+    /* background-position: cover; */
+    /* background-position: center; */
+
+    border: 1px solid;
+    height: 100vh;
+    color: white;
+}
+/* 
+header{
+    background-image: linear-gradient(to left top,red, blue ,green );
+} */
+
+
+ul {
+    list-style: none;
+}
+
+
+p{
+    line-height: 50px;
+    
+}
+li{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    text-align: center;
+    border-radius: 50%;
+}
+
+
+
