@@ -1,0 +1,5 @@
+body.dark{
+    background-color: rgb(63, 62, 62);
+    color: rgb(243, 240, 240);
+    transition: 1s;
+}
